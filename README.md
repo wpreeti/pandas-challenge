@@ -1,4 +1,4 @@
-#District Summary
+# District Summary
 
 There are 15 unique schools, with a total of 39,170 students.
 
@@ -8,7 +8,7 @@ The average math score across the district is approximately 78.98, and the avera
 
 About 74.98% of students passed math, 85.80% of students passed reading, and 65.17% of students passed both.
 
-#School Summary
+# School Summary
 
 The budget allocated per student varied between schools, the range is from $585 to $680.
 
@@ -16,7 +16,7 @@ Charter schools generally had higher average math and reading scores than Distri
 
 Large schools (from 2000 to 5000 students) had lower average scores in both compared to medium (from 1000 to 2000 students) and small schools(less than 1000 students).
 
-#Conclusions
+# Conclusions
 
 There's a difference in performance between Charter and District school students. Charter schools have higher scores and a higher percentage passing rate. This suggests that Charter schools may have a more conducive way to help students' academics.
 
